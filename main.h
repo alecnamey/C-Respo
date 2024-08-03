@@ -4,5 +4,5 @@
 
 #ifndef MAIN_H
 #define MAIN_H
-// testline new 
+// testline new
 #endif //MAIN_H
